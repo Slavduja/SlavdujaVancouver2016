@@ -4,8 +4,6 @@
 @endsection
 
 @section('content')
-
-
     <div class="container">
         <div id="content">
             <header>
