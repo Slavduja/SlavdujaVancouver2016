@@ -8,7 +8,7 @@
                     <div class="panel-heading">Welcome</div>
 
                     <div class="panel-body">
-                        Your Application's Landing Page.
+                        You've got questions? We have all the  answers!.
                     </div>
                 </div>
             </div>

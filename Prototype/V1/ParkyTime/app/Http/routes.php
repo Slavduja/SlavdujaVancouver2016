@@ -12,12 +12,12 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('public/welcome');
 });
 
-Route::get('/howitworks', 'RenterController@howitworks');
-Route::get('/FAQ', 'RenterController@faq');
-Route::get('/contact', 'RenterController@contact');
+Route::get('/howitworks', 'HomeController@howitworks');
+Route::get('/FAQ', 'HomeController@faq');
+Route::get('/contact', 'HomeController@contact');
 Route::get('/map', 'MapController@map');
 
 

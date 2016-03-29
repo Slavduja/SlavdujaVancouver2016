@@ -7,14 +7,7 @@
     <div class="container">
         <div id="content">
             <header>
-                <nav>
-                    <ul>
-                        <li> <a href="NewHostForm.html"><p>Become a Host </p></a> </li>
-                        <li> <a href="SignUp.html"><p>Sign Up</p>  </a> </li>
-                        <li> <a href="LogIn.html"><p>Log In</p> </a> </li>
-                    </ul>
-                </nav>
-                <h1> Spot 4 Me </h1>
+                <h1> Parky Time </h1>
             </header>
             <main>
                 <div id="home">
