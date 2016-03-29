@@ -1,0 +1,166 @@
+body {
+    background: #02394D;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: sans-serif;
+}
+
+#content {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    color: #EBF0F5;
+}
+
+header {
+    padding-top: 20px;
+    background: #00807f;
+}
+
+header > nav {
+    float: right;
+    padding-right: 40px;
+
+}
+header  > h1 {
+    font-weight: normal;
+    margin: 0px;
+    margin-left: 40px;
+    padding: 20px 0px 0px 20px;
+    position: relative; top: 5px;
+    width: 200px;
+}
+nav ul {
+
+    list-style-type: none;
+}
+nav  li {
+    display: inline-block;
+}
+
+nav a {
+    color:white;
+    display: block;
+    width: 100%;
+    padding: 10px;
+}
+nav p {
+
+    margin: 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+main {
+    text-align: center;
+}
+
+
+#home {
+    background: #00807f;
+    padding: 40px 0px 40px 0px;
+}
+
+#how-it-works {
+    margin: 30px 0px 50px 0px;
+}
+
+#how-it-works p {
+    display: inline-block;
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid #EBF0F5;
+    color: white;
+}
+
+
+#intro > h1 {
+    margin-bottom: 0px;
+}
+#intro > p {
+    margin-top: 0px;
+}
+
+#location {
+    background: #EBF0F5;
+    color: #02394D;
+    padding: 40px 10px 40px 10px;
+}
+
+#location > figure {
+    display: inline-block;
+    margin:0px;
+    padding: 0px 10px 0px 10px;
+}
+
+#location h2 {
+    margin-bottom: 0px;
+}
+
+#location p {
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+#location #see-all {
+    border: thin solid #02394D;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0px 10px 0px;
+    width: 120px;
+}
+footer {
+    display: inline-block;
+    width: 100%;
+    color: white;
+    background: #00807f;
+}
+
+footer div {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer .float-right {
+    float: right;
+}
+
+footer .float-right:first-of-type {
+    float: right;
+    margin-right: 80px;
+}
+
+footer h3 {
+    display: block;
+}
+
+footer ul {
+    display: block;
+    list-style-type:  none;
+    padding-left: 10px;
+}
+
+footer a {
+    color: white;
+}
+footer p {
+    margin: 0px;
+}
+
+/* MARIOS PAGES */
+
+.wrapper{
+    background: #EEEEEE;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pgHeader > h1 {
+    width: 300px;
+    padding-bottom: 40px;
+}

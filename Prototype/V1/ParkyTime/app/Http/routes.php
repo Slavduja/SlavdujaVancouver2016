@@ -18,6 +18,7 @@ Route::get('/', function () {
 Route::get('/howitworks', 'RenterController@howitworks');
 Route::get('/FAQ', 'RenterController@faq');
 Route::get('/contact', 'RenterController@contact');
+Route::get('/map', 'MapController@map');
 
 
 /*
